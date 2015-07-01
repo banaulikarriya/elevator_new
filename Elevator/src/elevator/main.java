@@ -6,6 +6,7 @@ public class main {
 		
 		
 		int num;
+		String name;
 
 	}
 
